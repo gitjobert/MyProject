@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Portfolio</title>
+<link rel="icon" href="image/logo.png">
+<link rel="stylesheet" href="index.css">
+
+
+</head>
+<body>
+
+
+<header><div class="wrap nav"><a class="logo" href="#home">YOUR<span>PORTFOLIO.</span></a><nav><a href="#about">About</a><a href="#web">Web Development</a><a href="#systems">Business Systems</a><a href="#experience">Experience</a><a href="#skills">Skills</a></nav><a class="contact-link" href="#contact">Contact ↗</a></div></header>
+<main class="wrap">
+<section class="hero" id="home">
+<div><span class="badge">WEB DEVELOPER · BUSINESS PROCESS</span><h1>Web development for a better <span>digital business process.</span></h1><p class="lead">I'm Your Name, a web developer specializing in professional websites and business process systems. I build practical digital solutions that help organizations organize operations, manage requests, and improve the way work gets done.</p><div class="actions"><a class="btn primary" href="#web">Explore My Work ↗</a><a class="btn" href="#contact">Let's Connect</a></div></div>
+<div class="code"><span class="p">MY SPECIALIZATION</span><br>{<br>&nbsp; <span class="g">"Website Development"</span>,<br>&nbsp; <span class="g">"Business Process Systems"</span>,<br>&nbsp; <span class="g">"Workflow & Approval"</span>,<br>&nbsp; <span class="g">"Process Improvement"</span><br>}<br><br><span class="y">// Design. Develop. Streamline.</span><small>HTML · CSS · JavaScript · PHP · MySQL</small></div>
+</section>
+<div class="stats"><div class="stat"><b>Website Development</b><span>Responsive and professional websites</span></div><div class="stat"><b>Business Process Systems</b><span>Digitized business operations</span></div><div class="stat"><b>Workflow Approval</b><span>Structured review and approval flows</span></div></div>
+<section id="about"><div class="kicker">ABOUT ME</div><h2 class="heading">A developer focused on business needs.</h2><p class="sub">Combining web development skills with an understanding of everyday business processes.</p><div class="grid">
+<article class="card"><div class="symbol">▣</div><h3>Website Development</h3><p>Creating modern, responsive websites for company profiles, services, information, and online presence.</p></article>
+<article class="card"><div class="symbol">⇄</div><h3>Business Process Systems</h3><p>Developing systems that organize business procedures, records, requests, and operational activities.</p></article>
+<article class="card"><div class="symbol">✓</div><h3>Workflow Automation</h3><p>Turning manual processes into structured digital workflows with routing, approvals, tracking, and history.</p></article>
+</div></section>
+<section id="web"><div class="kicker">WEBSITE DEVELOPMENT</div><h2 class="heading">Websites & front-end projects</h2><p class="sub">Showcase your website design and development work here. Replace sample projects with your actual website links and screenshots.</p><div class="grid">
+<article class="card project"><div class="preview"><div class="mock"><div class="bar"></div><div class="tiles"><div class="tile"></div><div class="tile"></div></div><div class="line"></div><div class="line" style="width:75%"></div></div></div><div class="project-body"><h3>Corporate Website</h3><p>Professional website presenting a company's profile, services, business information, and contact details.</p><div class="tags"><span class="tag">HTML</span><span class="tag">CSS</span><span class="tag">JavaScript</span><span class="tag">Responsive</span></div></div></article>
+<article class="card project"><div class="preview" style="background:linear-gradient(135deg,#16515a,#36a69a)"><div class="mock"><div class="bar"></div><div class="tiles"><div class="tile"></div><div class="tile"></div><div class="tile"></div></div><div class="line"></div></div></div><div class="project-body"><h3>Business / Service Website</h3><p>Clear, accessible website that introduces services, shares information, and helps visitors connect.</p><div class="tags"><span class="tag">Web Design</span><span class="tag">CSS</span><span class="tag">JavaScript</span></div></div></article>
+<article class="card project"><div class="preview" style="background:linear-gradient(135deg,#553b76,#a477c9)"><div class="mock"><div class="bar"></div><div class="tiles"><div class="tile"></div><div class="tile"></div></div><div class="line"></div><div class="line" style="width:65%"></div></div></div><div class="project-body"><h3>Landing Page</h3><p>Modern landing page with clear content hierarchy, responsive layout, and focused calls to action.</p><div class="tags"><span class="tag">HTML5</span><span class="tag">CSS3</span><span class="tag">UI Design</span></div></div></article>
+</div></section>
+<section id="systems"><div class="kicker">SPECIALTY · BUSINESS PROCESS SYSTEMS</div><h2 class="heading">Systems that make business processes work better.</h2><p class="sub">My specialty is developing web-based systems around real business procedures—not just creating web pages.</p><div class="grid">
+<article class="card"><div class="symbol">⇢</div><h3>Workflow Approval System</h3><p>Request submission, assignment to approvers, multi-level review, approval or rejection, and complete decision history.</p><div class="tags"><span class="tag">Approval Routing</span><span class="tag">Status Tracking</span></div></article>
+<article class="card"><div class="symbol">▤</div><h3>Transaction & Document Tracking</h3><p>Centralized records, searchable transactions, document references, progress monitoring, and activity logs.</p><div class="tags"><span class="tag">Record Management</span><span class="tag">Tracking</span></div></article>
+<article class="card"><div class="symbol">◫</div><h3>Operational Management</h3><p>Digital forms, process-specific data capture, reports, summaries, and tools that support daily business operations.</p><div class="tags"><span class="tag">Business Rules</span><span class="tag">Reports</span></div></article>
+</div>
+<div class="process" style="margin-top:16px"><h3 style="margin:0;font-size:16px">Example: Business approval workflow</h3><p class="muted">A request progresses through defined stages, with actions and status recorded at each step.</p><div class="steps"><div class="step"><b>01 · Submit</b><span>Request details entered</span></div><div class="step"><b>02 · Review</b><span>Assigned person validates</span></div><div class="step"><b>03 · Approve</b><span>Decision or return</span></div><div class="step"><b>04 · Track</b><span>History and final status</span></div></div></div>
+</section>
+<section id="experience">
+    <div class="kicker">PROFESSIONAL EXPERIENCE</div>
+    <h2 class="heading">Web development, business systems & database experience</h2>
+    <p class="sub">Experience developing and maintaining business tools, accounting processes, operational reports, and inventory records. Update the role labels and dates to match your actual employment history.</p>
+    <div class="timeline">
+<div class="item"><h3>Accounting System Module Development</h3><b>Accounting Systems · VBA & Microsoft Access</b><p>Developed accounting system modules using VBA and Microsoft Access, including Accounts Receivable (AR), Accounts Payable (AP), and OR Adjustment. Supported the recording and processing of accounting transactions across the different modules.</p></div>
+<div class="item"><h3>Financial Statement Reporting & SQL Server Maintenance</h3><b>Financial Reporting · Microsoft SQL Server</b><p>Managed financial statement reports using data gathered from multiple accounting system modules. Maintained the SQL Server database by updating tables and modifying SQL queries when needed to support report changes, data requirements, and financial statement updates.</p></div>
+<div class="item"><h3>Inventory System Development & Maintenance</h3><b>Inventory Management · Microsoft Access</b><p>Developed and maintained an inventory system using Microsoft Access. Worked on establishing a barcode-scanning process so item labels or stickers could be scanned and item information captured and saved in the system, helping improve item encoding and inventory tracking.</p></div>
+<div class="item"><h3>Web Developer & Business Process System Development</h3><b>Web Development · Company / Organization · Current or Recent</b><p>Developed and maintained websites and business process systems based on organizational requirements. Focused on workflow approvals, request routing, transaction tracking, user-friendly interfaces, and operational improvements.</p></div>
+<div class="item"><h3>Business Systems &amp; Module Development</h3><b>Maxima Machineries · Previous Role</b><p>Developed and maintained business programs using VBA and Microsoft Access, with Microsoft SQL Server as the backend database. Built and enhanced multiple systems, modules, and transaction processes, including Accounting and Administration systems, Requisition, Canvassing, and Purchase Order (PO) modules to support day-to-day business operations.</p></div>
+</div></section>
+<section id="skills">
+    <div class="kicker">TECHNICAL EXPERTISE</div>
+    <h2 class="heading">Skills & technologies</h2>
+    <p class="sub">Keep only tools and skills you have hands-on experience with.</p>
+    <div class="skills">
+        <span class="skill">HTML5</span>
+        <span class="skill">CSS3</span>
+        <span class="skill">JavaScript</span>
+        <span class="skill">PHP</span>
+        <span class="skill">MySQL</span>
+        <span class="skill">Microsoft Access</span>
+        <span class="skill">VBA</span>
+        <span class="skill">Microsoft SQL Server</span>
+        <span class="skill">SQL Queries & Database Maintenance</span>
+        <span class="skill">Financial Reporting</span>
+        <span class="skill">Accounting System Modules (AR / AP / OR Adjustment)</span>
+        <span class="skill">Inventory Management Systems</span>
+        <span class="skill">Barcode Scanning</span>
+        <span class="skill">Responsive Web Design</span>
+        <span class="skill">Website Development</span>
+        <span class="skill">Business Process Analysis</span>
+        <span class="skill">Workflow Design</span>
+        <span class="skill">Approval Routing</span>
+        <span class="skill">Role-based Access</span>
+        <span class="skill">Database Design</span>
+        <span class="skill">Form Validation</span>
+        <span class="skill">Reporting & Tracking</span>
+    </div>
+</section>
+<section class="banner" id="contact">
+    <div>
+        <h2>Let's build better business experiences.</h2>
+        <p>Need a professional website or a business process system? Let's talk.</p>
+    </div><a class="btn" href="mailto:you@example.com">✉ Email Me</a></section>
+</main>
+<footer>
+    <div class="wrap">© 2026 Your Name · Web Development | Business Process Systems</div>
+</footer>
+</body>
+</html>
